@@ -5,26 +5,26 @@ Projects:
 
 • Planet Surface Area Approximation (Project 1)
 
-Green Screen Graphics (Project 2)
+• Green Screen Graphics (Project 2)
 
-Recursive Functions (Project 3)
+• Recursive Functions (Project 3)
 
-Traveling Salesman Problem (Project 3)
+• Traveling Salesman Problem (Project 3)
 
-Water Tank Optimization (Project 4)
+• Water Tank Optimization (Project 4)
 
-Airfoil Optimization (Project 4)
+• Airfoil Optimization (Project 4)
 
-Fin Temperature Distribution (Project 5)
+• Fin Temperature Distribution (Project 5)
 
-Spring-Cart System Optimization (Project 5)
+• Spring-Cart System Optimization (Project 5)
 
-United States Wildfires Regression (Project 6)
+• United States Wildfires Regression (Project 6)
 
-Water Flow Regression (Project 7)
+• Water Flow Regression (Project 7)
 
-Enzyme Kinetics Regression (Project 8)
+• Enzyme Kinetics Regression (Project 8)
 
-Square Wave Function Approximation (Project 9)
+• Square Wave Function Approximation (Project 9)
 
-Ant Colony Simulation (Final Project)
+• Ant Colony Simulation (Final Project)
