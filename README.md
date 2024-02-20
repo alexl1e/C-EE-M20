@@ -3,7 +3,8 @@ Fundamentals of computer programming taught in context of MATLAB computing envir
 
 Projects:
 
-Planet Surface Area Approximation (Project 1)
+	Planet Surface Area Approximation (Project 1)
+
 Green Screen Graphics (Project 2)
 
 Recursive Functions (Project 3)
